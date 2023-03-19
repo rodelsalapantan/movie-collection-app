@@ -1,7 +1,7 @@
 # movie-collection-app
 Technologies Used: C#, Winform, MySQL
 
-# these steps to install and run the app:
+# Follow these steps to install and run the app:
 
 1. Import sql file to phpmyadmin
 2. Extract the 'OnlineMovieDownloaderApp.zip'
