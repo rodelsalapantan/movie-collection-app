@@ -1,4 +1,4 @@
-# movie-collection-app
+# Movie Collection App
 Technologies Used: C#, Winform, MySQL
 
 # Follow these steps to install and run the app:
